@@ -1,0 +1,10 @@
+source 'https://git.coding.net/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+target "QCBaseProjectForTest" do
+pod 'BlocksKit'
+pod 'libextobjc'
+pod 'SVProgressHUD'
+pod 'SDAutoLayout'
+end
+  
